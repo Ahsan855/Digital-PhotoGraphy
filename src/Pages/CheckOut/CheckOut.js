@@ -36,8 +36,6 @@ const CheckOut = () => {
           placeholder="Email Address"
           required
         />
-        <input type="number" name="phone" id="" placeholder="Phone" required />
-
         <input
           type="password"
           name="password"
@@ -45,8 +43,10 @@ const CheckOut = () => {
           placeholder="Password"
           required
         />
+        <input type="number" name="phone" id="" placeholder="Phone" required />
+        <input type="text" name="text" id="" placeholder="Home Address" required />
         <input type="checkbox" name="terms" id="terms" />
-        <label htmlFor="terms">Accept Genius Car Terms and Conditions</label>
+        <label htmlFor="terms">Accept Terms and Conditions</label>
         <input
           className="w-50 mx-auto btn btn-primary mt-2"
           type="submit"
