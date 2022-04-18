@@ -12,6 +12,7 @@ import RequireAuth from "./Pages/ReqierAuth/RequireAuth";
 import Blog from "./Pages/Blogs/Blog";
 import Login from "./Pages/Login/Login";
 import Register from "./Pages/Login/Register/Register";
+import Services from "./Pages/Services/Services";
 
 function App() {
   return (
@@ -31,6 +32,7 @@ function App() {
         />
         <Route path="/contact" element={<Contact />} />
         <Route path="/login" element={<Login />} />
+        <Route path="/services" element={<Services />} />
         <Route path="/register" element={<Register />} />
         <Route path="/blog" element={<Blog />} />
         <Route path="*" element={<NotFound404 />} />
