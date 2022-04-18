@@ -9,6 +9,7 @@ const About = () => {
             <div>
                 <h3 className='text-primary'>About Me</h3>
                 <p>My goal is full strak web developer. because i can understrand code clearly and fullently. so i love this section, Full stact web development is my passion and i love this code and logic. so, I can understand this section ,,,and enjoy every moment this section, error handle is a very fantastic grow my brain clearly. I assived this section is full stact developer.thanks for your quistions</p>
+                <button className="btn btn-primary">About Me</button>
             </div>
         </div>
     );
