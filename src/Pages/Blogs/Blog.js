@@ -3,7 +3,7 @@ import React from "react";
 const Blog = () => {
   return (
     <div className="d-flex mt-5">
-      <div className="p-5">
+      <div className="p-3">
         <h3 className="text-primary">
           Difference between authorization and authentication
         </h3>
@@ -15,7 +15,7 @@ const Blog = () => {
           on board
         </p>
       </div>
-      <div className="p-5">
+      <div className="p-3">
         <h3 className="text-primary">
           Why are you using firebase? What other options do you have to
           implement authentication?
@@ -31,7 +31,7 @@ const Blog = () => {
           backend
         </p>
       </div>
-      <div className="p-5">
+      <div className="p-3">
         <h3 className="text-primary">
           What other services does firebase provide other than authentication
         </h3>
