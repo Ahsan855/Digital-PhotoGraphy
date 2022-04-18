@@ -1,44 +1,44 @@
 [
     {
         "id": 1,
-        "name": "ENGINE DIAGNOSTIC",
+        "name": "PHOTOGRAHPHY DIAGNOSTIC",
         "price": "300",
         "description": "This is a veary good photoGraphar to Dhaka. This content is very awesome for this photo graphar.",
-        "img": "https://i.ibb.co/dGDkr4v/1.jpg"
+        "img": "https://media.istockphoto.com/photos/professional-food-blogger-in-action-picture-id1144378881?b=1&k=20&m=1144378881&s=170667a&w=0&h=bxHsIOuWy-j0zZNLZLJCjMQSTMMWcwoCjSz4_NaFxq8="
     },
     {
         "id": 2,
-        "name": "WHEEL ALIGNMENT",
+        "name": "WHEEL PHOTO",
         "price": "100",
         "description": "This is Awesome features for me,,,thanks for your bueaty .and, have a good Photographar...",
-        "img": "https://i.ibb.co/tY8dmnP/2.jpg"
+        "img": "https://images.unsplash.com/photo-1551706872-e17847fd94af?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MXw2MTEyMzd8fGVufDB8fHx8&auto=format&fit=crop&w=500&q=60"
     },
     {
         "id": 3,
-        "name": "OIL CHANGING",
+        "name": "TRAIN CHANGING",
         "price": "150",
-        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
-        "img": "https://i.ibb.co/Yh04YVw/3.jpg"
+        "description": "Awesome features and good attemt for me.",
+        "img": "https://images.unsplash.com/photo-1460132011327-1bcd44f7ae20?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8M3w2MTEyMzd8fGVufDB8fHx8&auto=format&fit=crop&w=500&q=60"
     },
     {
         "id": 4,
-        "name": "BRAKE REPARING",
+        "name": "BRAKE THOROW APP",
         "price": "180",
-        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
-        "img": "https://i.ibb.co/ZX2Cbkn/4.jpg"
+        "description": "ld is gold and best photo stayle for you.",
+        "img": "https://images.unsplash.com/photo-1621962896750-a8c9d25c56c7?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MTB8NjExMjM3fHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
     },
     {
         "id": 5,
         "name": "WASH AND GLASSING",
         "price": "100",
-        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
-        "img": "https://i.ibb.co/FgQ3jXp/5.jpg"
+        "description": "Coldy and awesome features for you.",
+        "img": "https://images.unsplash.com/photo-1458134692397-fc4217ad1dc5?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8NXw2MTEyMzd8fGVufDB8fHx8&auto=format&fit=crop&w=500&q=60"
     },
     {
         "id": 6,
-        "name": "COMPLETE ANALYSIS",
+        "name": "COMPLETE SERVICE",
         "price": "300",
-        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa",
-        "img": "https://i.ibb.co/zJy5ZDd/6.jpg"
+        "description": "This is a very awesome features and fantastic place.",
+        "img": "https://images.unsplash.com/photo-1620983391545-01aa94dd5d38?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8Mjd8NjExMjM3fHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
     }
 ]
